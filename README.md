@@ -9,6 +9,8 @@ and improving my skills step by step.
 - Flutter
 - Firebase
 - Basic frontend fundamentals
+- Shopify
+- Godot (planned)
 
 ### Learning Approach
 - By building, not just watching tutorials
