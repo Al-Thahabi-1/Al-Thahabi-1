@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Fares 👋
 
-<!--
-**Al-Thahabi-1/Al-Thahabi-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior developer with a background in pharmacy,
+currently focusing on building real-world projects
+and improving my skills step by step.
 
-Here are some ideas to get you started:
+### What I work with
+- PHP & Laravel
+- Flutter
+- Firebase
+- Basic frontend fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How I learn
+- By building, not just watching tutorials
+- By breaking things and fixing them properly
+- By keeping projects simple and structured
+
+### Current focus
+- Clean project structure
+- Practical Laravel & Flutter projects
+- Turning learning into real output
+
+### Collaboration
+- Working as part of a small development team on selected projects
