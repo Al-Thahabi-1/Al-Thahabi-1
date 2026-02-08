@@ -4,18 +4,18 @@ I'm a junior developer with a background in pharmacy,
 currently focusing on building real-world projects
 and improving my skills step by step.
 
-### What I work with
+### Tech Stack
 - PHP & Laravel
 - Flutter
 - Firebase
 - Basic frontend fundamentals
 
-### How I learn
+### Learning Approach
 - By building, not just watching tutorials
 - By breaking things and fixing them properly
 - By keeping projects simple and structured
 
-### Current focus
+### Current Focus
 - Clean project structure
 - Practical Laravel & Flutter projects
 - Turning learning into real output
