@@ -1,6 +1,6 @@
 ## Hi, I'm Fares 👋
 
-I'm a junior developer with a background in pharmacy,
+I'm a developer with a background in pharmacy,
 currently focusing on building real-world projects
 and improving my skills step by step.
 
