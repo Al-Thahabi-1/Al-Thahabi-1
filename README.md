@@ -1,26 +1,52 @@
-## Hi, I'm Fares 👋
+# Hi, I'm Fares 👋
 
-I'm a developer with a background in pharmacy,
-currently focusing on building real-world projects
-and improving my skills step by step.
+Laravel & Flutter Developer building real-world web and mobile applications.
+I focus on turning ideas into structured, practical products — not just code.
 
-### Tech Stack
-- PHP & Laravel
-- Flutter
+---
+
+## 🧠 Tech Stack
+- Laravel (PHP)
+- Flutter (Dart)
 - Firebase
-- Basic frontend fundamentals
-- Shopify
-- Godot (planned)
+- MySQL
+- REST APIs
+- Git & Version Control
 
-### Learning Approach
-- By building, not just watching tutorials
-- By breaking things and fixing them properly
-- By keeping projects simple and structured
+---
 
-### Current Focus
-- Clean project structure
-- Practical Laravel & Flutter projects
-- Turning learning into real output
+## 🚀 Selected Projects
 
-### Collaboration
-- Working as part of a small development team on selected projects
+### 🟢 Prego Education Website
+A structured web platform for educational services in Turkey.  
+- Built with Laravel  
+- Dynamic pages and organized content  
+- Clean UI focused on user experience  
+🔗 Live: https://eduprego.com/
+---
+
+### ⚖️ Legal Consultancy Website (Al-Mustafa)
+A professional website for a legal consulting company.  
+- Service-oriented structure  
+- Clear content hierarchy  
+- Designed for client trust and credibility  
+🔗 Live:https://almostafa.company/
+---
+
+### 💊 Efekt Pharma Mobile App
+A mobile application for pharmaceutical product management.  
+- Built with Flutter  
+- Structured product display  
+- Focused on offline usability and performance  
+
+---
+
+## 🤝 Collaboration
+Co-founder of **OliveCap Studio**, working on selected web and digital projects.
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/fares-awarik
+- GitHub: https://github.com/Al-Thahabi-1
+- Email: fares025.rk@gmail.com
