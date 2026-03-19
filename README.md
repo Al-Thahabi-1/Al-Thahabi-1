@@ -30,7 +30,7 @@ A professional website for a legal consulting company.
 - Service-oriented structure  
 - Clear content hierarchy  
 - Designed for client trust and credibility  
-🔗 Live:https://almostafa.company/
+🔗 Live: https://almostafa.company/
 ---
 
 ### 💊 Efekt Pharma Mobile App
@@ -43,7 +43,7 @@ A mobile application for pharmaceutical product management.
 
 ## 🤝 Collaboration
 Co-founder of **OliveCap Studio**, working on selected web and digital projects.
-
+🔗 Live: https://olivecap.net/
 ---
 
 ## 📫 Contact
